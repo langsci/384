@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="122.7519mm"
+   height="50.262558mm"
+   id="svg450"
+   sodipodi:docname="a05HabilDiscussion-img001.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview452"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4706179"
+     inkscape:cx="356.59095"
+     inkscape:cy="105.03445"
+     inkscape:window-width="2560"
+     inkscape:window-height="1329"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg450" />
+  <defs
+     id="defs12">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 V 0 256.12817 H 501.85746 V 0"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 0,0 V 0 254.72802 H 499.45718 V 0"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3">
+      <path
+         d="m 62.607168,53.905929 v 0 154.216961 H 486.15566 V 53.905929"
+         id="path8" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:none;stroke:#d9d9d9;stroke-width:1.00011px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="url(#clipEmfPath2)"
+     d="m 63.307248,207.92287 v 0 H 484.65549 M 63.307248,177.3195 v 0 H 484.65549 M 63.307248,146.61613 v 0 H 484.65549 M 63.307248,115.91275 v 0 H 484.65549 M 63.307248,85.309383 v 0 H 484.65549 M 63.307248,54.606006 v 0 H 484.65549"
+     id="path16"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.600069px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="url(#clipEmfPath2)"
+     d="m 63.307248,207.92287 v 0 -153.316864"
+     id="path18"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 135.91556,149.31642 v 0 c 0,-6.30069 5.10059,-11.40125 11.40131,-11.40125 6.20071,0 11.30129,5.10056 11.30129,11.40125 0,6.20069 -5.10058,11.30125 -11.30129,11.30125 -6.30072,0 -11.40131,-5.10056 -11.40131,-11.30125 z"
+     id="path20"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 221.32534,112.61239 v 0 c 0,-5.90065 4.80055,-10.70118 10.60121,-10.70118 5.90068,0 10.70123,4.80053 10.70123,10.70118 0,5.90065 -4.80055,10.70117 -10.70123,10.70117 -5.80066,0 -10.60121,-4.80052 -10.60121,-10.70117 z"
+     id="path22"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 305.33496,134.61481 v 0 c 0,-6.3007 4.80055,-11.30125 10.60121,-11.30125 5.90068,0 10.70123,5.00055 10.70123,11.30125 0,6.20068 -4.80055,11.30124 -10.70123,11.30124 -5.80066,0 -10.60121,-5.10056 -10.60121,-11.30124 z"
+     id="path24"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 389.34458,184.62031 v 0 c 0,-5.90065 5.10058,-10.70118 11.30129,-10.70118 6.30072,0 11.3013,4.80053 11.3013,10.70118 0,5.90065 -5.00058,10.70117 -11.3013,10.70117 -6.20071,0 -11.30129,-4.80052 -11.30129,-10.70117 z"
+     id="path26"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 135.91556,173.91913 v 0 c 0,-5.90065 5.10059,-10.60117 11.40131,-10.60117 6.20071,0 11.30129,4.70052 11.30129,10.60117 0,5.90065 -5.10058,10.70118 -11.30129,10.70118 -6.30072,0 -11.40131,-4.80053 -11.40131,-10.70118 z"
+     id="path28"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 221.32534,134.61481 v 0 c 0,-6.3007 4.80055,-11.30125 10.60121,-11.30125 5.90068,0 10.70123,5.00055 10.70123,11.30125 0,6.20068 -4.80055,11.30124 -10.70123,11.30124 -5.80066,0 -10.60121,-5.10056 -10.60121,-11.30124 z"
+     id="path30"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 305.33496,170.61877 v 0 c 0,-6.3007 4.80055,-11.30125 10.60121,-11.30125 5.90068,0 10.70123,5.00055 10.70123,11.30125 0,6.20068 -4.80055,11.30124 -10.70123,11.30124 -5.80066,0 -10.60121,-5.10056 -10.60121,-11.30124 z"
+     id="path32"
+     transform="translate(-20.71131,-51.172585)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 389.34458,199.92199 v 0 c 0,-6.20068 5.10058,-11.30124 11.30129,-11.30124 6.30072,0 11.3013,5.10056 11.3013,11.30124 0,6.30069 -5.00058,11.40125 -11.3013,11.40125 -6.20071,0 -11.30129,-5.10056 -11.30129,-11.40125 z"
+     id="path34"
+     transform="translate(-20.71131,-51.172585)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="148.90811"
+     y="104.14449"
+     id="text42"><tspan
+       sodipodi:role="line"
+       x="148.90811"
+       y="104.14449"
+       id="tspan40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan36">19</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="233.4178"
+     y="66.840393"
+     id="text52"><tspan
+       sodipodi:role="line"
+       x="233.4178"
+       y="66.840393"
+       id="tspan50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan46">31</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="317.82745"
+     y="88.142738"
+     id="text62"><tspan
+       sodipodi:role="line"
+       x="317.82745"
+       y="88.142738"
+       id="tspan60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan56">24</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="402.33713"
+     y="138.84831"
+     id="text74"><tspan
+       sodipodi:role="line"
+       x="402.33713"
+       y="138.84831"
+       id="tspan72"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0"
+         dy="0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan66">7.5</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="148.90811"
+     y="128.14713"
+     id="text84"><tspan
+       sodipodi:role="line"
+       x="148.90811"
+       y="128.14713"
+       id="tspan82"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan78">11</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="233.4178"
+     y="88.142738"
+     id="text94"><tspan
+       sodipodi:role="line"
+       x="233.4178"
+       y="88.142738"
+       id="tspan92"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan88">24</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="317.82745"
+     y="125.44685"
+     id="text104"><tspan
+       sodipodi:role="line"
+       x="317.82745"
+       y="125.44685"
+       id="tspan102"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan98">12</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="402.33713"
+     y="153.44992"
+     id="text116"><tspan
+       sodipodi:role="line"
+       x="402.33713"
+       y="153.44992"
+       id="tspan114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0"
+         dy="0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan108">2.5</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="22.993696"
+     y="160.15065"
+     id="text124"><tspan
+       sodipodi:role="line"
+       x="22.993696"
+       y="160.15065"
+       id="tspan122"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan120">0</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="16.192915"
+     y="129.44728"
+     id="text134"><tspan
+       sodipodi:role="line"
+       x="16.192915"
+       y="129.44728"
+       id="tspan132"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan128">10</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="16.192915"
+     y="98.84391"
+     id="text144"><tspan
+       sodipodi:role="line"
+       x="16.192915"
+       y="98.84391"
+       id="tspan142"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan138">20</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="16.192915"
+     y="69.440689"
+     id="text154"><tspan
+       sodipodi:role="line"
+       x="16.192915"
+       y="69.440689"
+       id="tspan152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan148">30</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="16.192915"
+     y="38.837318"
+     id="text164"><tspan
+       sodipodi:role="line"
+       x="16.192915"
+       y="38.837318"
+       id="tspan162"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan158">40</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="16.192915"
+     y="8.1339378"
+     id="text174"><tspan
+       sodipodi:role="line"
+       x="16.192915"
+       y="8.1339378"
+       id="tspan172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0"
+         dy="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan168">50</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:13.3125px;line-height:125%;font-family:'Calibri Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     transform="rotate(-90)"
+     x="-114.84568"
+     y="9.2921247"
+     id="text204"><tspan
+       sodipodi:role="line"
+       x="-114.84568"
+       y="9.2921247"
+       id="tspan202"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan178">Difference %</tspan></tspan></text>
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath2)"
+     d="m 38.60442,234.62581 v 0 c 0,-1.90021 1.500172,-3.30037 3.300378,-3.30037 1.900217,0 3.400389,1.40016 3.400389,3.30037 0,1.80019 -1.500172,3.30036 -3.400389,3.30036 -1.800206,0 -3.300378,-1.50017 -3.300378,-3.30036 z"
+     id="path250"
+     transform="translate(-20.71131,-51.172585)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="28.294302"
+     y="186.85359"
+     id="text256"><tspan
+       sodipodi:role="line"
+       x="28.294302"
+       y="186.85359"
+       id="tspan254"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan252">&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="33.594906"
+     y="186.85359"
+     id="text274"><tspan
+       sodipodi:role="line"
+       x="33.594906"
+       y="186.85359"
+       id="tspan272"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan258">German&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="82.900551"
+     y="186.85359"
+     id="text306"><tspan
+       sodipodi:role="line"
+       x="82.900551"
+       y="186.85359"
+       id="tspan304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan276"> Spanish vs. &quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="153.60866"
+     y="186.85359"
+     id="text322"><tspan
+       sodipodi:role="line"
+       x="153.60866"
+       y="186.85359"
+       id="tspan320"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0"
+         dy="0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan308">Czech&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="190.91293"
+     y="186.85359"
+     id="text342"><tspan
+       sodipodi:role="line"
+       x="190.91293"
+       y="186.85359"
+       id="tspan340"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan324"> Spanish</tspan></tspan></text>
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath2)"
+     d="m 269.33084,234.62581 v 0 c 0,-1.90021 1.50017,-3.30037 3.30037,-3.30037 1.90022,0 3.30038,1.40016 3.30038,3.30037 0,1.80019 -1.40016,3.30036 -3.30038,3.30036 -1.8002,0 -3.30037,-1.50017 -3.30037,-3.30036 z"
+     id="path346"
+     transform="translate(-20.71131,-51.172585)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="258.82071"
+     y="186.85359"
+     id="text352"><tspan
+       sodipodi:role="line"
+       x="258.82071"
+       y="186.85359"
+       id="tspan350"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan348">&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="264.22131"
+     y="186.85359"
+     id="text368"><tspan
+       sodipodi:role="line"
+       x="264.22131"
+       y="186.85359"
+       id="tspan366"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0"
+         dy="0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan354">Czech&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="301.5256"
+     y="186.85359"
+     id="text400"><tspan
+       sodipodi:role="line"
+       x="301.5256"
+       y="186.85359"
+       id="tspan398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan370"> Spanish vs. &quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="372.2337"
+     y="186.85359"
+     id="text416"><tspan
+       sodipodi:role="line"
+       x="372.2337"
+       y="186.85359"
+       id="tspan414"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0"
+         dy="0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan402">Czech&quot;</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="409.53796"
+     y="186.85359"
+     id="text436"><tspan
+       sodipodi:role="line"
+       x="409.53796"
+       y="186.85359"
+       id="tspan434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+         dx="0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+         id="tspan418"> Italian</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.625px;line-height:125%;font-family:'Courier New';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="118.80466"
+     y="18.835114"
+     id="text446"><tspan
+       x="118.80466"
+       y="18.835114"
+       id="tspan444"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"
+       sodipodi:role="line"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.625px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#c00000"
+         id="tspan442">PAI                 PAM                NA                BT</tspan></tspan></text>
+</svg>

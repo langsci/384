@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="123.40846mm"
+   height="51.3283mm"
+   id="svg452"
+   sodipodi:docname="a05HabilDiscussion-img003.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview454"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9580948"
+     inkscape:cx="171.05605"
+     inkscape:cy="100.57149"
+     inkscape:window-width="2560"
+     inkscape:window-height="1329"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg452" />
+  <defs
+     id="defs12">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 V 0 259.96781 H 504.73707 V 0"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 0,0 V 0 257.26711 H 502.13688 V 0"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3">
+      <path
+         d="m 62.604598,53.714011 v 0 158.241279 H 488.73589 V 53.714011"
+         id="path8" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:none;stroke:#d9d9d9;stroke-width:1.00007px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="url(#clipEmfPath2)"
+     d="m 63.304649,210.4549 v 0 H 487.33579 M 63.304649,179.74689 v 0 H 487.33579 M 63.304649,147.73854 v 0 H 487.33579 M 63.304649,117.13055 v 0 H 487.33579 M 63.304649,86.422543 v 0 H 487.33579 M 63.304649,54.414194 v 0 H 487.33579"
+     id="path16"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.600044px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="url(#clipEmfPath2)"
+     d="m 63.304649,210.4549 v 0 -156.040706"
+     id="path18"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 137.31008,185.1483 v 0 c 0,-6.30165 4.80036,-11.40298 10.60078,-11.40298 5.90044,0 10.70079,5.10133 10.70079,11.40298 0,6.20161 -4.80035,11.30294 -10.70079,11.30294 -5.80042,0 -10.60078,-5.10133 -10.60078,-11.30294 z"
+     id="path20"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 221.31625,179.74689 v 0 c 0,-6.20162 5.10038,-11.30295 11.30083,-11.30295 6.30047,0 11.30083,5.10133 11.30083,11.30295 0,6.30164 -5.00036,11.40297 -11.30083,11.40297 -6.20045,0 -11.30083,-5.10133 -11.30083,-11.40297 z"
+     id="path22"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 306.62252,179.74689 v 0 c 0,-6.20162 5.10037,-11.30295 11.30083,-11.30295 6.30046,0 11.40083,5.10133 11.40083,11.30295 0,6.30164 -5.10037,11.40297 -11.40083,11.40297 -6.20046,0 -11.30083,-5.10133 -11.30083,-11.40297 z"
+     id="path24"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 390.62869,182.44759 v 0 c 0,-6.30164 5.10037,-11.30295 11.30083,-11.30295 6.30046,0 11.40083,5.00131 11.40083,11.30295 0,6.20162 -5.10037,11.30295 -11.40083,11.30295 -6.20046,0 -11.30083,-5.10133 -11.30083,-11.30295 z"
+     id="path26"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 137.31008,179.74689 v 0 c 0,-6.20162 4.80036,-11.30295 10.60078,-11.30295 5.90044,0 10.70079,5.10133 10.70079,11.30295 0,6.30164 -4.80035,11.40297 -10.70079,11.40297 -5.80042,0 -10.60078,-5.10133 -10.60078,-11.40297 z"
+     id="path28"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 221.31625,173.14517 v 0 c 0,-6.30165 5.10038,-11.40298 11.30083,-11.40298 6.30047,0 11.30083,5.10133 11.30083,11.40298 0,6.20161 -5.00036,11.30294 -11.30083,11.30294 -6.20045,0 -11.30083,-5.10133 -11.30083,-11.30294 z"
+     id="path30"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 306.62252,157.14099 v 0 c 0,-6.30164 5.10037,-11.40297 11.30083,-11.40297 6.30046,0 11.40083,5.10133 11.40083,11.40297 0,6.20162 -5.10037,11.30295 -11.40083,11.30295 -6.20046,0 -11.30083,-5.10133 -11.30083,-11.30295 z"
+     id="path32"
+     transform="translate(-20.910092,-50.981482)" />
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath3)"
+     d="m 390.62869,161.14203 v 0 c 0,-6.30164 5.10037,-11.40297 11.30083,-11.40297 6.30046,0 11.40083,5.10133 11.40083,11.40297 0,6.20162 -5.10037,11.30295 -11.40083,11.30295 -6.20046,0 -11.30083,-5.10133 -11.30083,-11.30295 z"
+     id="path34"
+     transform="translate(-20.910092,-50.981482)" />
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g42"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(170.51252,191.14986)"
+       x="0"
+       y="0"
+       id="text40"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan38"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan36">8</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g52"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(255.31875,184.44811)"
+       x="0"
+       y="0"
+       id="text50"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan48"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan44">10</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g62"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(340.22498,184.44811)"
+       x="0"
+       y="0"
+       id="text60"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan58"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan54">10</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g70"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(425.13122,187.14882)"
+       x="0"
+       y="0"
+       id="text68"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan66"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan64">9</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g80"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(170.51252,173.84535)"
+       x="0"
+       y="0"
+       id="text78"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan76"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan72">10</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g90"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(255.31875,168.44394)"
+       x="0"
+       y="0"
+       id="text88"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan86"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan82">12</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g100"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(340.22498,163.14256)"
+       x="0"
+       y="0"
+       id="text98"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan96"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan92">17</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g110"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(425.13122,165.84326)"
+       x="0"
+       y="0"
+       id="text108"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan102">16</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g118"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(43.903224,215.15612)"
+       x="0"
+       y="0"
+       id="text116"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan112">0</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g128"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(37.202732,183.14777)"
+       x="0"
+       y="0"
+       id="text126"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan120">10</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g138"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(37.202732,152.43976)"
+       x="0"
+       y="0"
+       id="text136"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan130">20</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g148"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(37.202732,121.83178)"
+       x="0"
+       y="0"
+       id="text146"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan140">30</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g158"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(37.202732,89.823431)"
+       x="0"
+       y="0"
+       id="text156"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';fill:#07181b"
+           id="tspan150">40</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g168"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(37.202732,59.11542)"
+       x="0"
+       y="0"
+       id="text166"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0"
+           dy="0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan160">50</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g198"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:13.3125px;line-height:125%;font-family:'Calibri Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="rotate(-90,99.323078,69.120861)"
+       x="0"
+       y="0"
+       id="text196"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan170">Difference %</tspan></tspan></text>
+  </g>
+  <path
+     style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath2)"
+     d="m 39.90293,237.16186 v 0 c 0,-1.90049 1.500111,-3.40088 3.40025,-3.40088 1.800132,0 3.300242,1.50039 3.300242,3.40088 0,1.80047 -1.50011,3.30086 -3.300242,3.30086 -1.900139,0 -3.40025,-1.50039 -3.40025,-3.30086 z"
+     id="path250"
+     transform="translate(-20.910092,-50.981482)" />
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g344"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(49.903665,241.86309)"
+       x="0"
+       y="0"
+       id="text256"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan252">&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(49.903665,241.86309)"
+       x="5.4003968"
+       y="0"
+       id="text274"><tspan
+         sodipodi:role="line"
+         x="5.4003968"
+         y="0"
+         id="tspan272"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan258">German&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(49.903665,241.86309)"
+       x="54.704018"
+       y="0"
+       id="text306"><tspan
+         sodipodi:role="line"
+         x="54.704018"
+         y="0"
+         id="tspan304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan276"> Spanish vs. &quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(49.903665,241.86309)"
+       x="125.40921"
+       y="0"
+       id="text322"><tspan
+         sodipodi:role="line"
+         x="125.40921"
+         y="0"
+         id="tspan320"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0"
+           dy="0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan308">Czech&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(49.903665,241.86309)"
+       x="162.71194"
+       y="0"
+       id="text342"><tspan
+         sodipodi:role="line"
+         x="162.71194"
+         y="0"
+         id="tspan340"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan324"> Spanish</tspan></tspan></text>
+  </g>
+  <path
+     style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     clip-path="url(#clipEmfPath2)"
+     d="m 270.61987,237.16186 v 0 c 0,-1.90049 1.50011,-3.40088 3.30025,-3.40088 1.90014,0 3.40025,1.50039 3.40025,3.40088 0,1.80047 -1.50011,3.30086 -3.40025,3.30086 -1.80014,0 -3.30025,-1.50039 -3.30025,-3.30086 z"
+     id="path346"
+     transform="translate(-20.910092,-50.981482)" />
+  <g
+     clip-path="url(#clipEmfPath2)"
+     id="g438"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(281.12065,241.86309)"
+       x="0"
+       y="0"
+       id="text352"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan350"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan348">&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(281.12065,241.86309)"
+       x="5.4003968"
+       y="0"
+       id="text368"><tspan
+         sodipodi:role="line"
+         x="5.4003968"
+         y="0"
+         id="tspan366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0"
+           dy="0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan354">Czech&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(281.12065,241.86309)"
+       x="42.703136"
+       y="0"
+       id="text400"><tspan
+         sodipodi:role="line"
+         x="42.703136"
+         y="0"
+         id="tspan398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan370"> Spanish vs. &quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(281.12065,241.86309)"
+       x="113.40833"
+       y="0"
+       id="text416"><tspan
+         sodipodi:role="line"
+         x="113.40833"
+         y="0"
+         id="tspan414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan402"
+           dy="0 0 0 0 0 0"
+           dx="0 0 0 0 0 0">Czech&quot;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(281.12065,241.86309)"
+       x="150.71107"
+       y="0"
+       id="text436"><tspan
+         sodipodi:role="line"
+         x="150.71107"
+         y="0"
+         id="tspan434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3125px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#07181b"
+           id="tspan418"> Italian</tspan></tspan></text>
+  </g>
+  <g
+     clip-path="url(#clipEmfPath1)"
+     id="g450"
+     transform="translate(-20.910092,-50.981482)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.625px;line-height:125%;font-family:'Courier New';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(135.80997,69.818212)"
+       x="0"
+       y="0"
+       id="text448"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif'"><tspan
+           dx="0 0 0 0 0 0 0 0 0 -4.133924"
+           dy="0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.625px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';fill:#c00000"
+           id="tspan442">PAI                   PAM                 NA                BT</tspan></tspan></text>
+  </g>
+</svg>
